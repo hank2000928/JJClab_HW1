@@ -1,18 +1,18 @@
 # JJClab_HW1
-JJClab網管W1課程HW，參考筆記：opensuse_note
+JJClab網管W1課程HW，參考筆記：opensuse_note  
 
-# 前置
-  VMware: 
-  SUSE: SLE-15-SP7-Full-x86_64-GM-Media1.iso
+# 前置  
+  VMware:   
+  SUSE: SLE-15-SP7-Full-x86_64-GM-Media1.iso  
 
-# 虛擬機規格
-  CPU: 2 Cores
-  RAM: 4GB
-  Disk: 60GB
-  ├──/boot    500MB
-  ├──swap     2GB
-  ├──/(Root)  20GB
-  └──/home    37.5GB
+# 虛擬機規格  
+  CPU: 2 Cores  
+  RAM: 4GB  
+  Disk: 60GB  
+  ├──/boot    500MB  
+  ├──swap     2GB  
+  ├──/(Root)  20GB  
+  └──/home    37.5GB  
     
-# 虛擬機架設
+# 虛擬機架設  
 
