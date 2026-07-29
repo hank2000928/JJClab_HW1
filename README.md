@@ -8,13 +8,13 @@ JJClab網管W1課程HW，參考筆記：opensuse_note
 -------------------------------------------------------  
 
 # 虛擬機規格  
-    CPU: 2 Cores  
-    RAM: 4GB  
-    Disk: 60GB  
-    ├── /boot    500MB  
-    ├── swap     2GB  
-    ├── /(Root)  20GB  
-    └── /home    37.5GB  
+  CPU: 2 Cores  
+  RAM: 4GB  
+  Disk: 60GB  
+  ├── /boot    500MB  
+  ├── swap     2GB  
+  ├── /(Root)  20GB  
+  └── /home    37.5GB  
 
 -------------------------------------------------------  
     
