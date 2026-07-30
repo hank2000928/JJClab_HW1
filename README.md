@@ -2,7 +2,7 @@
 JJClab網管W1課程HW，參考筆記：opensuse_note  
 
 # 前置  
-  VMware:   
+  VMware: VMware Workstation Pro.Ink  
   SUSE: SLE-15-SP7-Full-x86_64-GM-Media1.iso  
 
 -------------------------------------------------------  
