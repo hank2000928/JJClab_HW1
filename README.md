@@ -34,6 +34,11 @@ JJClab網管W1課程HW，參考筆記：opensuse_note
 <img width="1483" height="913" alt="image" src="https://github.com/user-attachments/assets/690e38cd-ddb4-47ab-8f92-0b877fa8c61e" />  
 <img width="1263" height="657" alt="image" src="https://github.com/user-attachments/assets/3b632e0b-34af-4ef5-9abd-9d3e5c0292c7" />  
 
+硬碟區分與分工整理如下表:  
+<img width="979" height="429" alt="image" src="https://github.com/user-attachments/assets/a1da7433-a515-45b4-90c2-d949c7fe18c9" />
+
+
+
 選定地區  
 <img width="1475" height="911" alt="image" src="https://github.com/user-attachments/assets/58c8b526-e659-431d-ac7d-8dfd7ffec4cc" />  
 
@@ -43,12 +48,12 @@ JJClab網管W1課程HW，參考筆記：opensuse_note
 # 架設第二台虛擬機  
 
 使用複製(clone)功能:  
-<img width="1269" height="840" alt="image" src="https://github.com/user-attachments/assets/77e0612b-fdd1-49d6-8a59-675f71b47824" />
+<img width="1269" height="840" alt="image" src="https://github.com/user-attachments/assets/77e0612b-fdd1-49d6-8a59-675f71b47824" />  
 <img width="944" height="753" alt="image" src="https://github.com/user-attachments/assets/a0ae6dba-e07a-475d-92c7-3d2be74c9b4e" />  
 <img width="952" height="745" alt="image" src="https://github.com/user-attachments/assets/6782df76-3e03-4b02-aed1-5f0e4d3e9c0b" />  
 
 第二台VM登入su後，確認正常運作
-<img width="1275" height="885" alt="image" src="https://github.com/user-attachments/assets/b6afb8bb-3643-41e9-a823-1182961c473b" />
+<img width="1275" height="885" alt="image" src="https://github.com/user-attachments/assets/b6afb8bb-3643-41e9-a823-1182961c473b" />  
 
 
 
